@@ -1,0 +1,18 @@
+{
+	"name": "lib5",
+	"url": "https://github.com/MAJigsaw77/hxvlc",
+	"license": "MIT",
+	"tags": [
+		"haxeflixel"
+	],
+	"description": "misc stuff for my own convenience",
+	"version": "0.0.1",
+	"releasenote": "",
+	"contributors": [
+		"data5"
+	],
+	"classPath": "lib/",
+	"dependencies": {
+		"flixel": ""
+	}
+}
