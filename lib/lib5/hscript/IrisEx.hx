@@ -1,4 +1,4 @@
-package hscript;
+package lib5.hscript;
 
 #if hscript_iris
 import crowplexus.iris.Iris;
